@@ -1,0 +1,6 @@
+crewai[litellm]
+litellm
+groq
+python-dotenv
+pydantic
+gradio
